@@ -37,6 +37,7 @@ Type help or a question mark "?" to see the list of all available commands you c
 ## msf > nmap -sT 192.168.1810/24-p1-1000
 ## msf > db_nmap 192.168.181.0/24
 ## kali > ls-l
+![ls](https://github.com/Reebak04/Metasploit-for-reconnaissance/assets/118364993/1c7803b4-0ed2-4e0e-a87e-a6d6685672d9)
 
 ## search 
 ![search](https://github.com/Reebak04/Metasploit-for-reconnaissance/assets/118364993/e8f48467-91a9-4b32-a5e3-825eebe8d473)
